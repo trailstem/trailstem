@@ -11,9 +11,9 @@
 
 
 <p>
-  <img alt="" width="330px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tmcoco0228si&theme=2077&utcOffset=8"/>
-  <img alt="" width="330px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tmcoco0228si&theme=2077"/>
-  <img alt="" width="330px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tmcoco0228si&theme=2077"/>
+  <img alt="" width="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tmcoco0228si&theme=2077&utcOffset=8"/>
+  <img alt="" width="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tmcoco0228si&theme=2077"/>
+  <img alt="" width="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tmcoco0228si&theme=2077"/>
 </p>
 
 <img alt="" width="1200px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tmcoco0228si&theme=2077" />
