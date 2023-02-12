@@ -6,7 +6,7 @@
 </p>
 
 <p>
- <img alt="" width="1000px" src="https://github-profile-trophy.vercel.app/?username=tmcoco0228si&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy"/>
+ <img alt="" width="1000px" src="https://github-profile-trophy.vercel.app/?username=tmcoco0228si&theme=onedark"/>
 </p>
 
 
